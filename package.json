@@ -1,0 +1,27 @@
+{
+  "name": "love-lines",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imxaander/Love-Lines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imxaander/Love-Lines/issues"
+  },
+  "homepage": "https://github.com/imxaander/Love-Lines#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "firebase": "^10.5.0"
+  }
+}
